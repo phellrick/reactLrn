@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.header{}
+.nav{
+    padding: 20px;
+    background: #0e82c0;
+}
+.ul{
+    display: flex;
+    justify-content: space-around;
+}
+
+li{
+    list-style: none;
+}
+
+.a{
+    color:black;
+    font-size: 20px;
+    text-decoration: none;
+
+}
+
+.a:hover{
+    color: azure;
+}
